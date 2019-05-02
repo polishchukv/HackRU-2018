@@ -1,0 +1,7 @@
+﻿$axure.loadCurrentPage(
+(function() {
+    var _ = function() { var r={},a=arguments; for(var i=0; i<a.length; i+=2) r[a[i]]=a[i+1]; return r; }
+    var _creator = function() { return _(b,c,d,e,f,g,h,g,i,_(j,k),l,[m,n,o,p,q,r,s,t,u,v,w,x,y,z,A,B,C,D,E,F,G,H,I,J],K,_(L,M,N,O,P,Q,R,_(S,T,U,V,W,_(X,Y,Z,ba),bb,null,bc,V,bd,V,be,bf,bg,null,bh,bi,bj,bk,bl,bm,bn,bi),bo,_(),bp,_(),bq,_(br,[])),bs,_(),bt,_());}; 
+var b="url",c="page_3.html",d="generationDate",e=new Date(1524400597405.25),f="isCanvasEnabled",g=false,h="isAdaptiveEnabled",i="sketchKeys",j="",k="s0",l="variables",m="OnLoadVariable",n="Protein",o="Carb",p="Sugar",q="Fiber",r="Fat",s="Salt",t="Vegetarian",u="Vegan",v="Paleo",w="Balanced",x="Alcohol",y="Gluten",z="Dairy",A="Eggs",B="Soy",C="Wheat",D="Fish",E="Shellfish",F="TreeNuts",G="Peanuts",H="CalMin",I="CalMax",J="Ingredients",K="page",L="packageId",M="805044dfcd634f05a0687a7de26a9cc8",N="type",O="Axure:Page",P="name",Q="Page 3",R="style",S="baseStyle",T="627587b6038d43cca051c114ac41ad32",U="pageAlignment",V="near",W="fill",X="fillType",Y="solid",Z="color",ba=0xFFFFFFFF,bb="image",bc="imageHorizontalAlignment",bd="imageVerticalAlignment",be="imageRepeat",bf="auto",bg="favicon",bh="sketchFactor",bi="0",bj="colorStyle",bk="appliedColor",bl="fontName",bm="Applied Font",bn="borderWidth",bo="adaptiveStyles",bp="interactionMap",bq="diagram",br="objects",bs="masters",bt="objectPaths";
+return _creator();
+})());
